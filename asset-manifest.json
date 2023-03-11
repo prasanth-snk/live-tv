@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/live-tv/static/css/main.89a7e89b.css",
-    "main.js": "/live-tv/static/js/main.aa2d9552.js",
+    "main.css": "/live-tv/static/css/main.f14e2ecd.css",
+    "main.js": "/live-tv/static/js/main.77e93c17.js",
     "static/js/787.ca5734ba.chunk.js": "/live-tv/static/js/787.ca5734ba.chunk.js",
     "index.html": "/live-tv/index.html",
-    "main.89a7e89b.css.map": "/live-tv/static/css/main.89a7e89b.css.map",
-    "main.aa2d9552.js.map": "/live-tv/static/js/main.aa2d9552.js.map",
+    "main.f14e2ecd.css.map": "/live-tv/static/css/main.f14e2ecd.css.map",
+    "main.77e93c17.js.map": "/live-tv/static/js/main.77e93c17.js.map",
     "787.ca5734ba.chunk.js.map": "/live-tv/static/js/787.ca5734ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89a7e89b.css",
-    "static/js/main.aa2d9552.js"
+    "static/css/main.f14e2ecd.css",
+    "static/js/main.77e93c17.js"
   ]
 }
